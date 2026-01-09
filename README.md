@@ -14,7 +14,7 @@ Curious learner with strong problem-solving skills and interest in cloud and bac
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
 
 <!--
 **ShubhamSadhak/ShubhamSadhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
